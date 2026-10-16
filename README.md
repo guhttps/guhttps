@@ -43,7 +43,11 @@
 | ⚙️ **[BO2 + Plutonium](https://github.com/guhttps/bo2-plutonium-instalador)** | Assistente para Windows com download retomável e verificação de integridade. Feito em PowerShell. |
 | 🎨 **[Casa Prática · Artes](https://github.com/guhttps/casa-pratica-achados-artes)** | Coleção de artes originais para a Casa Prática Achados. |
 
-### Multiseat Windows · pesquisa aberta
+### Multiseat Windows · projeto público
+
+[![Compilação Windows](https://github.com/guhttps/multiseat-windows/actions/workflows/windows-build.yml/badge.svg?branch=main)](https://github.com/guhttps/multiseat-windows/actions/workflows/windows-build.yml)
+[![Verificações de privacidade](https://github.com/guhttps/multiseat-windows/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/guhttps/multiseat-windows/actions/workflows/security.yml)
+[![Análise de segurança C++ e C#](https://github.com/guhttps/multiseat-windows/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/guhttps/multiseat-windows/actions/workflows/codeql.yml)
 
 O objetivo é criar estações independentes no mesmo computador Windows, cada uma com sua conta, monitor, teclado e mouse. O código e a documentação já são públicos; o motor multiseat completo e o uso simultâneo de League of Legends ainda não foram demonstrados.
 
