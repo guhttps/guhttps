@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o GUH.</h1>
+<h1 align="center">GUH.</h1>
 
 <picture>
   <source media="(prefers-reduced-motion: no-preference)" srcset="https://raw.githubusercontent.com/guhttps/guhttps/main/assets/edward-elric.gif" type="image/gif" />
