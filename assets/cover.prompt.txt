@@ -1,0 +1,14 @@
+Arte gerada com a ferramenta integrada image_gen.
+Destino: assets/cover.png
+Prompt utilizado:
+
+Use case: illustration-story.
+Asset type: ultra-wide illustrated banner for the GitHub developer profile @guhttps, intended final aspect ratio 3:1.
+Primary request: premium anime fan-art cover combining the user's favorite Fullmetal Alchemist (clearly the main theme), Solo Leveling, and The Beginning After the End. Visually sophisticated manga editorial composition, dramatic yet restrained.
+Subject: Edward Elric with recognizable golden braided hair, red coat, and visible silver automail hand, beside the imposing steel-armored Alphonse Elric, as the two primary characters. In the far right background a smaller Sung Jinwoo with black hair, subtle violet shadow aura, and a smaller auburn-haired Arthur Leywin with a pale dragon companion as secondary cameos. No spoilers or battle violence.
+Scene/backdrop: very dark charcoal navy, detailed glowing gold alchemy transmutation-circle linework and delicate technical marks, sparse ember particles; subtle violet and cool blue on the extreme right. Left 40 percent is clean dark negative space with typography; main Edward and Alphonse composition occupies center and right. Characters cropped around chest/waist to suit banner.
+Style/medium: beautiful hand-drawn anime key visual with crisp expressive linework, painterly atmospheric shadows, restrained cinematic highlights, premium illustrated art book cover, not 3D.
+Color palette: near-black charcoal, aged gold, strong crimson red; secondary subtle violet and icy blue.
+Text (verbatim): a very small uppercase eyebrow "CODE · ALCHEMY · EVOLUTION"; large beautiful warm-white bold title "GUHTTPS"; below title smaller gold line "Toda ideia pode se transformar."
+Composition/framing: extremely wide 3:1 banner, edge-to-edge artwork, left text aligned with comfortable margin, all lettering fully inside frame, important character faces and title clearly legible at GitHub README width. A fine gold horizontal rule beneath subtitle. No extra captions or logos, no watermark, no rounded outer frame.
+Constraints: spell GUHTTPS exactly G U H T T P S; make Fullmetal Alchemist visually dominant and the two manhwa cameos secondary. All characters are fictional anime fan art.

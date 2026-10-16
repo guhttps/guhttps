@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-labelledby="title desc">
+  <title id="title">Alquimia, evolução e recomeços</title>
+  <desc id="desc">Um círculo geométrico dourado, uma lâmina violeta e uma estrela azul sobre um fundo grafite.</desc>
+  <defs>
+    <linearGradient id="line"><stop stop-color="#cb9e5b" stop-opacity="0"/><stop offset=".3" stop-color="#cb9e5b" stop-opacity=".55"/><stop offset=".7" stop-color="#9978d0" stop-opacity=".55"/><stop offset="1" stop-color="#7fb9e4" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="96" rx="8" fill="#10141d"/>
+  <path d="M48 48h1104" stroke="url(#line)"/>
+  <g transform="translate(360 48)" stroke="#d1aa6c" fill="#10141d" stroke-width="1.4">
+    <circle r="31"/><circle r="25"/><path d="m0-25 21.65 37.5h-43.3ZM0 25l21.65-37.5h-43.3Z"/><circle r="8"/>
+  </g>
+  <g transform="translate(600 48)" stroke="#aa8cd8" fill="#10141d" stroke-width="1.5" stroke-linejoin="round">
+    <circle r="26" stroke-opacity=".3"/><path d="m13-23-6 26-13 9 7-16ZM-9 10l12 9M-11 22l8-8"/>
+  </g>
+  <g transform="translate(840 48)" stroke="#85badb" fill="#10141d" stroke-width="1.5">
+    <circle r="26" stroke-opacity=".3"/><path d="M0-24 6-6l18 6-18 6-6 18-6-18-18-6 18-6Z"/><circle r="3" fill="#85badb"/>
+  </g>
+</svg>
