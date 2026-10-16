@@ -1,0 +1,46 @@
+﻿[
+    {
+        "series":  "Fullmetal Alchemist",
+        "height":  499,
+        "pin":  "https://www.pinterest.com/pin/27795722690878131/",
+        "image_url":  "https://i.pinimg.com/originals/94/36/93/943693c988c8d849cb807d794c7c14d7.jpg",
+        "sha256":  "5e739c3f1bf549c0608b7ade62be33fc22282ebd18e0fac8d676ff756c22bfb9",
+        "local_path":  "assets/edward-elric.jpg",
+        "width":  499,
+        "modifications":  "none; original downloaded bytes preserved",
+        "character":  "Edward Elric"
+    },
+    {
+        "series":  "Fullmetal Alchemist",
+        "height":  720,
+        "pin":  "https://www.pinterest.com/pin/123075002310266117/",
+        "image_url":  "https://i.pinimg.com/originals/03/97/ff/0397ff5d0b1a13aa3036aa69574b2c67.jpg",
+        "sha256":  "3bdc576032e40667646057eb756acc8fb8ad162109c07e6bf01feb66b263f8a7",
+        "local_path":  "assets/alphonse-elric.jpg",
+        "width":  720,
+        "modifications":  "none; original downloaded bytes preserved",
+        "character":  "Alphonse Elric"
+    },
+    {
+        "character":  "Sung Jinwoo",
+        "series":  "Solo Leveling",
+        "pin":  "https://in.pinterest.com/pin/917327017848862543/",
+        "image_url":  "https://i.pinimg.com/originals/53/ec/20/53ec2092b3e924857a849f01e6b97f52.jpg",
+        "local_path":  "assets/sung-jinwoo.jpg",
+        "width":  736,
+        "height":  920,
+        "sha256":  "75b52ad2fa771523850f9c27546c24a00598941b39e8a93debb34e5fe01145dd",
+        "modifications":  "none; original downloaded bytes preserved"
+    },
+    {
+        "character":  "Arthur Leywin",
+        "series":  "The Beginning After the End",
+        "pin":  "https://in.pinterest.com/pin/656188608241937673/",
+        "image_url":  "https://i.pinimg.com/originals/45/29/3b/45293b4d0afe94f993828c6178e2997a.jpg",
+        "local_path":  "assets/arthur-leywin.jpg",
+        "width":  736,
+        "height":  805,
+        "sha256":  "5f5477989c8c0f4000315ed460c5ba3fb25c76199c2e71119a0a6559441424a1",
+        "modifications":  "none; original downloaded bytes preserved"
+    }
+]

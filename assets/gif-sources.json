@@ -1,0 +1,55 @@
+﻿[
+    {
+        "character":  "Edward Elric",
+        "series":  "Fullmetal Alchemist",
+        "source_page":  "https://tenor.com/view/fullmetal-alchemist-edward-elric-fma-point-pointing-finger-gif-24131108",
+        "gif_url":  "https://media1.tenor.com/m/9LaQ3vtV8iYAAAAC/fullmetal-alchemist-edward-elric.gif",
+        "local_path":  "assets/edward-elric.gif",
+        "width":  498,
+        "height":  280,
+        "frames":  37,
+        "bytes":  2807610,
+        "sha256":  "1ed35efdb690a33063eac376e360b23f8dd150c473c98b975777d787110560bc",
+        "modifications":  "none; downloaded GIF preserved"
+    },
+    {
+        "character":  "Alphonse Elric",
+        "series":  "Fullmetal Alchemist: Brotherhood",
+        "source_page":  "https://tenor.com/view/fullmetal-alchemist-fullmetal-alchemist-brotherhood-fma-fmab-alphonse-gif-27596295",
+        "gif_url":  "https://media1.tenor.com/m/GbHxywKTXIEAAAAd/fullmetal-alchemist-fullmetal-alchemist-brotherhood.gif",
+        "local_path":  "assets/alphonse-elric.gif",
+        "width":  640,
+        "height":  360,
+        "frames":  73,
+        "bytes":  1917131,
+        "sha256":  "9e932ede91be1fc7cc6cc44af880b560674db7fad46b6f76b0b34def0bab3d49",
+        "modifications":  "none; downloaded GIF preserved"
+    },
+    {
+        "character":  "Sung Jinwoo",
+        "series":  "Solo Leveling",
+        "source_page":  "https://tenor.com/view/jinwoo-sung-solo-leveling-jinwoo-anime-gif-4354532489944555106",
+        "gif_url":  "https://media1.tenor.com/m/PG5oOnIK3mIAAAAC/jinwoo-sung-solo-leveling.gif",
+        "local_path":  "assets/sung-jinwoo.gif",
+        "width":  498,
+        "height":  392,
+        "frames":  30,
+        "bytes":  2115402,
+        "sha256":  "7284f1c03f77e335a094b92274bd3ac5f459b7a4db02116bb13726c0744fa824",
+        "header":  "GIF89a",
+        "modifications":  "none; downloaded GIF preserved"
+    },
+    {
+        "character":  "Arthur Leywin",
+        "series":  "The Beginning After the End",
+        "source_page":  "https://tenor.com/view/arthur-tbate-gif-27260490",
+        "gif_url":  "https://media1.tenor.com/m/hptw4c5W_voAAAAC/arthur-tbate.gif",
+        "local_path":  "assets/arthur-leywin.gif",
+        "width":  280,
+        "height":  498,
+        "frames":  56,
+        "bytes":  3795398,
+        "sha256":  "eacbf22c91899a67fde58a3ca8fab8bae030df8f662f8f42852d8afa54ebc015",
+        "modifications":  "none; downloaded GIF preserved"
+    }
+]
