@@ -62,12 +62,12 @@
 
 | Componente | Hardware |
 | :--- | :--- |
-| Processador | AMD Ryzen 9 7900 · 12 núcleos / 24 threads |
+| Processador | AMD Ryzen 9 7900 |
 | Placa de vídeo | NVIDIA GeForce RTX 4060 |
 | Memória RAM | 32 GB DDR5 · 2 × 16 GB · 5200 MT/s |
 | Placa-mãe | ASUS TUF GAMING B650M-PLUS |
 | SSD 1 | XPG GAMMIX S70 BLADE · 1 TB |
-| SSD 2 | ADATA IM2P33F3A NVMe · 512 GB |
+| SSD 2 | ADATA NVMe · 512 GB |
 
 <br clear="both" />
 
