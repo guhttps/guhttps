@@ -49,7 +49,7 @@
 [![Verificações de privacidade](https://github.com/guhttps/multiseat-windows/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/guhttps/multiseat-windows/actions/workflows/security.yml)
 [![Análise de segurança C++ e C#](https://github.com/guhttps/multiseat-windows/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/guhttps/multiseat-windows/actions/workflows/codeql.yml)
 
-O objetivo é criar estações independentes no mesmo computador Windows, cada uma com sua conta, monitor, teclado e mouse. O código e a documentação já são públicos; o motor multiseat completo e o uso simultâneo de League of Legends ainda não foram demonstrados.
+O objetivo é criar estações independentes no mesmo computador Windows, cada uma com sua conta, monitor, teclado e mouse. O código e a documentação já são públicos.
 
 [Ver o projeto](https://github.com/guhttps/multiseat-windows) · [Código e documentação](https://github.com/guhttps/multiseat-windows/blob/main/README.md) · [Acompanhar o desenvolvimento](https://github.com/guhttps/multiseat-windows/issues)
 
