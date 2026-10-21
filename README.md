@@ -61,6 +61,8 @@ O objetivo é criar estações independentes no mesmo computador Windows, cada u
 
 **Criação nativa de sessão:** uma solicitação limitada na VM cliente criou outra sessão com CSRSS e o processo inicial de teste, preservou o console original e terminou com restauração externa verificada. [Prova e limites](https://github.com/guhttps/multiseat-windows/blob/17e6000b5d0cdf27f5887e938b6521022a54adc5/docs/lab/010-native-session-creation.md). Esse resultado ainda não fornece login de uma segunda conta nem um posto com tela e entrada próprias.
 
+**Integração do terminal nativo:** o serviço real do Windows cliente carregou nosso componente experimental e chamou sua fábrica, inicialização e configurações. A rodada com a nova versão também teve restauração verificada; o início do listener e o segundo posto utilizável continuam pendentes. [Resultado e próximos passos](https://github.com/guhttps/multiseat-windows/blob/43837cb1661e048dd48e4d7df0984ecb6b4dd818/docs/lab/012-native-terminal-provider.md).
+
 <picture>
   <source media="(prefers-reduced-motion: no-preference)" srcset="https://raw.githubusercontent.com/guhttps/guhttps/main/assets/sung-jinwoo.gif" type="image/gif" />
   <img align="right" src="https://raw.githubusercontent.com/guhttps/guhttps/main/assets/sung-jinwoo.jpg" width="150" alt="Sung Jinwoo" />
