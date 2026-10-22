@@ -14,7 +14,8 @@
 <p>
   <a href="#meu-laboratório">Tecnologias</a> &nbsp;·&nbsp;
   <a href="#projetos-em-transmutação">Projetos</a> &nbsp;·&nbsp;
-  <a href="#meu-setup">Meu setup</a>
+  <a href="#meu-setup">Meu setup</a> &nbsp;·&nbsp;
+  <a href="#certificados">Certificados</a>
 </p>
 
 <br clear="both" />
@@ -91,6 +92,13 @@ O objetivo é criar estações independentes no mesmo computador Windows, cada u
 | SSD 2 | ADATA NVMe · 512 GB |
 
 <br clear="both" />
+
+## Certificados
+
+| Curso | Instituição | Carga horária | Certificado |
+| :--- | :--- | :---: | :--- |
+| Linguagem de Programação Python — Básico | Fundação Bradesco · Escola Virtual | 18 horas | [Ver PDF](certificados/python.pdf) |
+| Fundamentos de TI: Hardware e Software | Fundação Bradesco · Escola Virtual | 7 horas | [Ver PDF](certificados/fundamentos-ti-hardware-software.pdf) |
 
 <p align="center">
   <sub>A próxima transmutação começa com uma ideia.</sub>
