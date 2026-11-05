@@ -41,7 +41,7 @@
 | :--- | :--- |
 | 🖥️ **[Multiseat Windows](https://github.com/guhttps/multiseat-windows)** | Painel experimental para planejar duas estações no Windows, com instalador e ZIP disponíveis. Motor multiseat em pesquisa. |
 | 🎙️ **[LoL AI Coach](https://github.com/guhttps/lol-ai-coach)** | Coach de League of Legends com IA, interação por voz e overlay. Feito em Python. |
-| ⚙️ **[BO2 + Plutonium](https://github.com/guhttps/bo2-plutonium-instalador)** | Assistente para Windows com download retomável e verificação de integridade. Feito em PowerShell. |
+| 🛡️ **[Veu](https://github.com/guhttps/veu)** | Proxy, biblioteca Python e CLI para proteger dados pessoais antes de enviar textos a modelos de IA. |
 
 ### Multiseat Windows · projeto público
 
