@@ -105,7 +105,17 @@ O teste físico com dois monitores e dois pares de teclado e mouse, o login de c
 | Linux Unhatched | Cisco Networking Academy · NDG | 8 horas | [Ver PDF](certificados/linux-unhatched.pdf) |
 | Linguagem de Programação Python — Básico | Fundação Bradesco · Escola Virtual | 18 horas | [Ver PDF](certificados/python.pdf) |
 | Fundamentos de TI: Hardware e Software | Fundação Bradesco · Escola Virtual | 7 horas | [Ver PDF](certificados/fundamentos-ti-hardware-software.pdf) |
+| Linux I: conhecendo e utilizando o terminal | Alura | 4 horas | [Ver PDF](certificados/alura-linux-i-terminal.pdf) |
+| Linux II: programas, processos e pacotes | Alura | 8 horas | [Ver PDF](certificados/alura-linux-ii-programas-processos-pacotes.pdf) |
+| Linux Onboarding: usando a CLI de uma forma rápida e prática | Alura | 8 horas | [Ver PDF](certificados/alura-linux-onboarding-cli.pdf) |
+| Linux Onboarding: localizando arquivos e conteúdos | Alura | 8 horas | [Ver PDF](certificados/alura-linux-onboarding-localizando-arquivos.pdf) |
+| Linux Onboarding: obtendo e tratando informações do sistema | Alura | 8 horas | [Ver PDF](certificados/alura-linux-onboarding-informacoes-sistema.pdf) |
+| Linux Onboarding: trabalhe com usuários, permissões e dispositivos | Alura | 8 horas | [Ver PDF](certificados/alura-linux-onboarding-usuarios-permissoes.pdf) |
+| Linux: gerenciando diretórios, arquivos, permissões e processos | Alura | 8 horas | [Ver PDF](certificados/alura-linux-gerenciando-diretorios-arquivos.pdf) |
+| Certificação Linux LPI Essentials: Evolution and Distributions | Alura | 8 horas | [Ver PDF](certificados/alura-lpi-essentials-evolution-distributions.pdf) |
+| Certificação Linux LPI Essentials: using the command line to get help | Alura | 6 horas | [Ver PDF](certificados/alura-lpi-essentials-command-line-help.pdf) |
+| Terminal: aprenda comandos para executar tarefas | Alura | 10 horas | [Ver PDF](certificados/alura-terminal-comandos-tarefas.pdf) |
 
 <p align="center">
-  <sub>A próxima transmutação começa com uma ideia.</sub>
+  <sub>A próxima transmutação começa com uma ideia. &nbsp;·&nbsp; Os certificados foram censurados para manter a privacidade.</sub>
 </p>
