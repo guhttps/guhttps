@@ -102,6 +102,7 @@ O teste físico com dois monitores e dois pares de teclado e mouse, o login de c
 
 | Curso | Instituição | Carga horária | Certificado |
 | :--- | :--- | :---: | :--- |
+| Linux Unhatched | Cisco Networking Academy · NDG | 8 horas | [Ver PDF](certificados/linux-unhatched.pdf) |
 | Linguagem de Programação Python — Básico | Fundação Bradesco · Escola Virtual | 18 horas | [Ver PDF](certificados/python.pdf) |
 | Fundamentos de TI: Hardware e Software | Fundação Bradesco · Escola Virtual | 7 horas | [Ver PDF](certificados/fundamentos-ti-hardware-software.pdf) |
 
